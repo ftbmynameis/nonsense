@@ -4,7 +4,7 @@ set(nonsense_VERSION 1.0.1)
 
 project(nonsense
 	VERSION ${nonsense_VERSION}
-	DESCRIPTION "A nonsense library containing some stubs to make up a useless library"
+	DESCRIPTION "A nonsense library containing some stubs to make up a useless library to link to"
 	HOMEPAGE_URL "https://github.com/ftbmynameis/nonsense"
 	LANGUAGES CXX)
 	
